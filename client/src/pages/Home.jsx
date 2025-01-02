@@ -1,7 +1,7 @@
 import React from 'react';
-
 //The contents of this component are all static filler. Replace it with your own content or components!
 
+//Body of Component
 const Home = () => {
   return (
     <div>
