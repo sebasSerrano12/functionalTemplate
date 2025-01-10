@@ -1,4 +1,4 @@
-# Hair Salon Template
+# App Template
 
 This is a React site template with functional routing and appointment booking using React, Vite, Node, and MongoDB. Note that the project contains a separate Client and Server.
 
@@ -7,7 +7,7 @@ This is a React site template with functional routing and appointment booking us
 1. Install the Server packages in the root directory.
 
 ```bash
-cd hair_salon
+cd project_name
 npm i
 ```
 2. In the root, create a .env file and insert your MongoDB connection string as a variable. 
